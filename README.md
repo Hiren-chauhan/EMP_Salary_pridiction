@@ -77,3 +77,6 @@ The application will open in your web browser and display the following:
     *   The confidence percentage of the prediction.
 *   **Data Preview:** A section titled "Data Preview" will show the first few rows of the dataset in a table.
 
+*   <img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/370e8e08-b955-4768-bd75-55af58c5cba3" />
+
+
